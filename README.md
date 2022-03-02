@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @jurytan
-- 👀 I’m interested in ...
+<!-- - 👀 I’m interested in ... -->
 - 🌱 I’m currently learning 
   - Typescript/React
   - Flutter/Dart
   - iOS development
   - Android development
   - Machine Learning (We'll get here one day...)
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me 
   - the.jurytan@gmail.com
 
